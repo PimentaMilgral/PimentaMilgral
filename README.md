@@ -1,7 +1,6 @@
 # Olá! Eu sou o Pietro Maraus!👋🏼
-Meu nome é Pietro Maraus, estou em busca de ser um grande programador na parte de jogos, aplicativos e sites.
-Atualmente sou Monitor em uma Instituição de cursos, que possui aulas de Desenvolvimento de Sistemas, Desenvolvemento de Jogos, 
-Informáica, Excel, PowerPoint, World, entre outros.
+Meu nome é Pietro Maraus, estou em busca de ser um grande programador, minhas tecnologias se baseiam em linguagens de programação e informática,
+e meus projetos podem variar desde: Jogos, Sites, Aplicativos entre outras partes de desenvolvimento.
 
 ## Conecte-se comigo! 📱
 
