@@ -21,8 +21,11 @@ Informáica, Excel, PowerPoint, World, entre outros.
 ## Meus Cursos e Formações
 
 📖 Técnico em Logística - Germano Negrini
+
 📖 Desenvolvimento de Jogos Scracth - Germano Negrini
+
 📖 Desenvolvimento de Sistemas - Interativa Treinamentos 
+
 📖 Tecnologia Fundamental - Interativa Treinamentos
 
 
