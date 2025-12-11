@@ -17,7 +17,7 @@ e meus projetos podem variar desde: Jogos, Sites, Aplicativos entre outras parte
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## Meus Cursos e Formações
+## Meus Cursos e Formações! 📚
 
 📖 Técnico em Logística - Germano Negrini
 
