@@ -19,13 +19,13 @@ e meus projetos podem variar desde: Jogos, Sites, Aplicativos entre outras parte
 
 ## Meus Cursos e Formações! 📚
 
-📖 Técnico em Logística - Germano Negrini
+### 📖 Técnico em Logística - Germano Negrini
 
-📖 Desenvolvimento de Jogos Scracth - Germano Negrini
+### 📖 Desenvolvimento de Jogos Scracth - Germano Negrini
 
-📖 Desenvolvimento de Sistemas - Interativa Treinamentos 
+### 📖 Desenvolvimento de Sistemas - Interativa Treinamentos 
 
-📖 Tecnologia Fundamental - Interativa Treinamentos
+### 📖 Tecnologia Fundamental - Interativa Treinamentos
 
 
 
