@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá! Eu sou o Pietro Maraus!👋🏼
+Meu nome é Pietro Maraus, estou em busca de ser um grande programador na parte de jogos, aplicativos e sites.
+Atualmente sou Monitor em uma Instituição de cursos, que possui aulas de Desenvolvimento de Sistemas, Desenvolvemento de Jogos, 
+Informáica, Excel, PowerPoint, World, entre outros.
 
-<!--
-**PimentaMilgral/PimentaMilgral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Conecte-se comigo! 📱
 
-Here are some ideas to get you started:
+[![Instagram]([https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white))](https://www.instagram.com/maraus_xz/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin]([[https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.instagram.com/maraus_xz/)
+
+## Minhas Tecnologias! 👨🏻‍💻
+
+[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+
+[![CSS][(https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]
+
+[![C#][([https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white])
+
+[![Scracth]([https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white))]
+
+
+
