@@ -5,7 +5,7 @@ e meus projetos podem variar desde: Jogos, Sites, Aplicativos entre outras parte
 ## Conecte-se comigo! 📱
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maraus_xz/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-maraus-semo-do-nascimento-8107b2383/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietromaraus/)
 
 
 ## Minhas Tecnologias! 👨🏻‍💻
